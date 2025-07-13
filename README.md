@@ -63,7 +63,7 @@ The pricing logic extracts renovation items (like sink, tiles, shower) from cust
 --
 
 ## Project Structure
-
+```plaintext
 bathroom-pricing-engine/
 ├── pricing_engine.py              # Main script
 ├── pricing_logic/                # Logic modules
