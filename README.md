@@ -59,6 +59,7 @@ The pricing logic extracts renovation items (like sink, tiles, shower) from cust
   "error_flags": []
 }
 
+```
 --
 
 ## Project Structure
@@ -119,6 +120,6 @@ Continues with default pricing logic using multiplier = 1.0
 
 ---
 
-Author
+## Author
 Anshuman Dwivedi  
 LinkedIn (https://www.linkedin.com/in/anshuman-dwivedi-)
