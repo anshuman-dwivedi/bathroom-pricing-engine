@@ -158,7 +158,7 @@ if __name__ == "__main__":
     transcript = (
         "Client wants to renovate a small 4m² bathroom. They’ll remove the old tiles, "
         "redo the plumbing for the shower, replace the toilet, install a vanity, "
-        "repaint the walls, and lay new ceramic floor tiles. Budget-conscious. Located in Pakistan."
+        "repaint the walls, and lay new ceramic floor tiles. Budget-conscious. Located in  Marseille."
     )
 
     quote = generate_quote(transcript)
