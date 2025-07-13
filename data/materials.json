@@ -1,6 +1,6 @@
 {
   "remove old tiles": {
-    "material": "N/A",
+    "material": "tiles",
     "unit_cost": 0
   },
   "redo the plumbing": {

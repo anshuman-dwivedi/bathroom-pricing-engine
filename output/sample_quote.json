@@ -1,31 +1,77 @@
 {
-  "location": "Paris",
+  "location": "Marseille",
   "bathroom_size_m2": 4.0,
   "tasks": [
     {
       "zone": "floor demolition",
       "task": "remove old tiles",
-      "material": "N/A",
+      "material": "tiles",
       "labor_hours": 2.0,
-      "labor_cost": 96.0,
+      "labor_cost": 80.0,
       "material_cost": 0,
       "margin": 0.15,
       "vat_rate": 0.2,
-      "total_cost": 132.48
+      "total_cost": 110.4
+    },
+    {
+      "zone": "fixture install",
+      "task": "replace the toilet",
+      "material": "toilet fixture",
+      "labor_hours": 1.5,
+      "labor_cost": 60.0,
+      "material_cost": 120,
+      "margin": 0.15,
+      "vat_rate": 0.2,
+      "total_cost": 248.4
     },
     {
       "zone": "plumbing",
       "task": "redo the plumbing",
       "material": "pipes & joints",
       "labor_hours": 3.0,
-      "labor_cost": 144.0,
+      "labor_cost": 120.0,
       "material_cost": 60,
       "margin": 0.15,
       "vat_rate": 0.2,
-      "total_cost": 281.52
+      "total_cost": 248.4
+    },
+    {
+      "zone": "painting",
+      "task": "repaint the walls",
+      "material": "wall paint",
+      "labor_hours": 1.5,
+      "labor_cost": 60.0,
+      "material_cost": 100.0,
+      "margin": 0.15,
+      "vat_rate": 0.2,
+      "total_cost": 220.8
+    },
+    {
+      "zone": "floor install",
+      "task": "lay new ceramic floor tiles",
+      "material": "ceramic tiles",
+      "labor_hours": 2.5,
+      "labor_cost": 100.0,
+      "material_cost": 72.0,
+      "margin": 0.15,
+      "vat_rate": 0.2,
+      "total_cost": 237.36
+    },
+    {
+      "zone": "fixture install",
+      "task": "install a vanity",
+      "material": "vanity set",
+      "labor_hours": 2.0,
+      "labor_cost": 80.0,
+      "material_cost": 250,
+      "margin": 0.15,
+      "vat_rate": 0.2,
+      "total_cost": 455.4
     }
   ],
   "confidence_score": 0.6,
-  "error_flags": [],
-  "grand_total": 414.0
+  "error_flags": [
+    "Unknown city 'pakistan' \u2014 default multiplier used."
+  ],
+  "grand_total": 1520.76
 }
