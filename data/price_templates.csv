@@ -1,0 +1,8 @@
+task,zone,labor_hours,base_hourly_rate
+remove old tiles,floor demolition,2.0,40
+redo the plumbing,plumbing,3.0,40
+replace the toilet,fixture install,1.5,40
+install a vanity,fixture install,2.0,40
+repaint the walls,painting,1.5,40
+lay new ceramic floor tiles,floor install,2.5,40
+

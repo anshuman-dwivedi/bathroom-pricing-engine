@@ -1,0 +1,31 @@
+{
+  "location": "Paris",
+  "bathroom_size_m2": 4.0,
+  "tasks": [
+    {
+      "zone": "floor demolition",
+      "task": "remove old tiles",
+      "material": "N/A",
+      "labor_hours": 2.0,
+      "labor_cost": 96.0,
+      "material_cost": 0,
+      "margin": 0.15,
+      "vat_rate": 0.2,
+      "total_cost": 132.48
+    },
+    {
+      "zone": "plumbing",
+      "task": "redo the plumbing",
+      "material": "pipes & joints",
+      "labor_hours": 3.0,
+      "labor_cost": 144.0,
+      "material_cost": 60,
+      "margin": 0.15,
+      "vat_rate": 0.2,
+      "total_cost": 281.52
+    }
+  ],
+  "confidence_score": 0.6,
+  "error_flags": [],
+  "grand_total": 414.0
+}

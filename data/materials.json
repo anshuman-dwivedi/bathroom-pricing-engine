@@ -1,0 +1,29 @@
+{
+  "remove old tiles": {
+    "material": "N/A",
+    "unit_cost": 0
+  },
+  "redo the plumbing": {
+    "material": "pipes & joints",
+    "unit_cost": 60
+  },
+  "replace the toilet": {
+    "material": "toilet fixture",
+    "unit_cost": 120
+  },
+  "install a vanity": {
+    "material": "vanity set",
+    "unit_cost": 250
+  },
+  "repaint the walls": {
+    "material": "wall paint",
+    "unit_cost": 10,
+    "unit": "m2",
+    "wall_height_m": 2.5
+  },
+  "lay new ceramic floor tiles": {
+    "material": "ceramic tiles",
+    "unit_cost": 18,
+    "unit": "m2"
+  }
+}
